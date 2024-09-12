@@ -1,6 +1,6 @@
 ## PokeForesight Project Checklist 📋
 
-- [ ] **Fetch Data** 🌐  
+- [x] **Fetch Data** 🌐  
   Retrieve game replays from the Pokémon Showdown server to use for training
 
 - [ ] **Prepare Dataset** 🗂️  
