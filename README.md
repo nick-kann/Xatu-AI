@@ -4,7 +4,7 @@
   Retrieve game replays from the Pokémon Showdown server to use for training
 
 - [ ] **Prepare Dataset** 🗂️  
-  Process the raw data into a structured and workable dataset suitable for model training
+  Process the raw data into a workable dataset suitable for model training
 
 - [ ] **Create/Train Model** 🔧  
   Find the best ML algorithm, hyperparameters, and feature transformations to create/train the model
