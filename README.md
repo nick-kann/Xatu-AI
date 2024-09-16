@@ -11,7 +11,7 @@
 - [x] **Fetch Data** 🌐  
   Retrieve game replays from the Pokémon Showdown server to use for training
 
-- [ ] **Prepare Dataset** 🗂️  
+- [x] **Prepare Dataset** 🗂️  
   Process the raw data into a workable dataset suitable for model training
 
 - [ ] **Create/Train Model** 🔧  
