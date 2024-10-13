@@ -15,7 +15,8 @@
   Process the raw data into a workable dataset suitable for model training
 
 - [ ] **Create/Train Model** 🔧  
-  Find the best ML algorithm, hyperparameters, and feature transformations to create/train the model
+  Find the best ML algorithm, hyperparameters, and feature transformations to create/train the model.  
+  - Current best-performing model: **CatBoost** with **46.7% accuracy**.
 
 - [ ] **HuggingFace Deployment** 🤗  
   Deploy the model to HuggingFace
